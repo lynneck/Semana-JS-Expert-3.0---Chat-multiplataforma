@@ -7,7 +7,8 @@ Este repositório contém o código fonte e os recursos relacionados à Semana J
 
 ## Descrição
 
-Este é um projeto desenvolvido durante a Semana JS Expert 3.0, uma iniciativa criada por Erick Wendel para promover aprendizado prático e colaborativo em JavaScript e tecnologias relacionadas. Neste projeto, construímos um chat multiplataforma utilizando diversas tecnologias modernas.
+Este é um projeto desenvolvido durante a Semana JS Expert 3.0, uma iniciativa criada por Erick Wendel para promover aprendizado prático e colaborativo
+em JavaScript e tecnologias relacionadas. Neste projeto, construímos um chat multiplataforma utilizando diversas tecnologias modernas.
 
 ## Tecnologias Utilizadas
 

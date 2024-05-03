@@ -1,6 +1,4 @@
-Claro, aqui está um exemplo de README para o seu repositório no GitHub para o curso "Semana JS Expert 3.0 - Chat Multiplataforma" do Erick Wendel:
 
-```
 # Semana JS Expert 3.0 - Chat Multiplataforma
 
 Este repositório contém o código fonte e os recursos relacionados à Semana JS Expert 3.0 - Chat Multiplataforma, ministrado por Erick Wendel.

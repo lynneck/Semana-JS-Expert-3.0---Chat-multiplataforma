@@ -28,6 +28,3 @@ em JavaScript e tecnologias relacionadas. Neste projeto, construímos um chat mu
 
 - [Erick Wendel](https://github.com/erickwendel)
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
